@@ -2,7 +2,7 @@ import geopandas
 import re
 import matplotlib.pyplot as plt
 
-shp_path = "estados_2010.shp"
+shp_path = "estados_2010/estados_2010.shp"
 estados = geopandas.read_file(shp_path)
 
 def plot_rs(ax, color='gray', alpha=0.2):

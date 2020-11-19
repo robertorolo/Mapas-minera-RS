@@ -3,11 +3,13 @@ body {
 	max-width: 900px;
 	margin-left:auto;
 	margin-right:auto;
+	margin-top:0;
 	text-align: justify;
     text-justify: inter-word;
 	font-family: Sans-Serif;
 	padding: 0px;
 }
+
 
 .footer {
   background-color: #370737;

@@ -10,6 +10,9 @@ body {
 	padding: 0px;
 }
 
+img{
+ display:block;
+}
 
 .footer {
   background-color: #370737;

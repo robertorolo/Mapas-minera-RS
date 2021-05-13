@@ -1,6 +1,6 @@
 # Mapas-minera-RS
 
-Diagnóstico da mineração no RS em mapas. Todos os mapas foram produzidos a partir da biblioteca GeoPandas.
+Diagnóstico da mineração no RS em mapas. Todos os mapas foram produzidosusando biblioteca GeoPandas.
 
 # CEFEM
 ![alt text](imagens/arrecadacao.png)

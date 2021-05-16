@@ -13,6 +13,7 @@ Diagnóstico da mineração no RS em mapas. Todos os mapas foram produzidos usan
 
 # CEFEM por grupo
 ![alt text](imagens/arrecadacao/MATERIAIS%20PARA%20CONSTRUÇÃO%20CIVIL.png)
+![alt text](imagens/arrecadacao/RECURSOS%20ENERGÉTICOS.png)
 
 # Pontencial
 ![alt text](imagens/potencial/subs/OURO.png)

@@ -20,3 +20,7 @@ Diagnóstico da mineração no RS em mapas. Todos os mapas foram produzidos usan
 
 # Operação
 ![alt text](imagens/operacao_fepam/Materiais%20para%20construção%20civil.png)
+
+## Referências
+
+Todos mapas podem ser visualizados de forma amigável em: https://sema-rs.000webhostapp.com/minera-rs/index.html

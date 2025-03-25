@@ -23,4 +23,4 @@ Diagnóstico da mineração no RS em mapas. Todos os mapas foram produzidos usan
 
 ## Referências
 
-Todos mapas podem ser visualizados de forma amigável em: https://sema-rs.000webhostapp.com/minera-rs/index.html
+* https://www.sema.rs.gov.br/publicacoes
